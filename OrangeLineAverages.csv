@@ -1,0 +1,41 @@
+,stop_name,direction_id,delay_time
+0,Assembly,0,100.0
+1,Assembly,1,169.0
+2,Back Bay,0,129.0
+3,Back Bay,1,187.0
+4,Chinatown,0,75.0
+5,Chinatown,1,90.0
+6,Community College,0,113.0
+7,Community College,1,155.0
+8,Downtown Crossing,0,72.0
+9,Downtown Crossing,1,92.0
+10,Forest Hills,0,
+11,Forest Hills,1,120.0
+12,Green Street,0,321.0
+13,Green Street,1,93.0
+14,Haymarket,0,101.0
+15,Haymarket,1,106.0
+16,Jackson Square,0,103.0
+17,Jackson Square,1,101.0
+18,Malden Center,0,296.0
+19,Malden Center,1,329.0
+20,Massachusetts Avenue,0,94.0
+21,Massachusetts Avenue,1,145.0
+22,North Station,0,139.0
+23,North Station,1,142.0
+24,Oak Grove,0,148.0
+25,Oak Grove,1,
+26,Roxbury Crossing,0,99.0
+27,Roxbury Crossing,1,66.0
+28,Ruggles,0,94.0
+29,Ruggles,1,127.0
+30,State,0,67.0
+31,State,1,88.0
+32,Stony Brook,0,96.0
+33,Stony Brook,1,108.0
+34,Sullivan Square,0,149.0
+35,Sullivan Square,1,115.0
+36,Tufts Medical Center,0,130.0
+37,Tufts Medical Center,1,80.0
+38,Wellington,0,111.0
+39,Wellington,1,275.0
